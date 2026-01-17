@@ -4,7 +4,7 @@
 This project demonstrates an **end-to-end machine learning pipeline** where text data is **web scraped**, **cleaned**, **converted into numerical features**, and finally **classified using an SVM (Support Vector Machine)** model.
 
 Instead of using Kaggle datasets, real-world data was collected from the web to understand practical challenges such as noisy text, class imbalance, and weak labeling.
-We scraped the data from Hacker News — specifically the front page of news.ycombinator.com.
+We scraped the data from Hacker News — specifically the front page of news.ycombinator.com.(https://news.ycombinator.com/)
 
 ---
 
